@@ -5,6 +5,6 @@ public class Main {
         int nextInt= 10;//деклариция с инициализацией
         short myShort = 32323; //16-бит инфы
         long myLong =784684333; // 64-бита инфы
-        System.out.println(myInt+nextInt); //метод с параметром в виде имени переменной
+        System.out.println(myInt+nextInt+myShort+myLong); //метод с параметром в виде имени переменной
     }
 }
